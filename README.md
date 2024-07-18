@@ -81,7 +81,7 @@ This project provided hands-on experience with various Flutter and Dart concepts
 
 ## Contributing
 
-We welcome contributions to this project! Here's how you can get involved:
+## We welcome contributions to this project! Here's how you can get involved:
 
 1. Fork the Project
 2. Create your Feature Branch
